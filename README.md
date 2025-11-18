@@ -19,11 +19,11 @@ It supports:
 🧩 Tech Stack
 Backend
 
-> Spring Boot (3.x)
-> Spring Security + JWT
-> Spring Data MongoDB
-> WebSocket (STOMP + SockJS)
-> Maven
+> Spring Boot (3.x),
+> Spring Security + JWT,
+> Spring Data MongoDB,
+> WebSocket (STOMP + SockJS),
+> Maven,
 > Lombok
 
 Database
